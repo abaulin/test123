@@ -6,7 +6,7 @@
 
 int main()
 {
-	// new comment
+	// new comment #2
     return 0;
 }
 
